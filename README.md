@@ -69,6 +69,7 @@ Here the j refers to the jth variable and the r refers to the rth factor. In PCA
 #### d) Here is where we "cross over the line" between PCA and factor analysis. Based on the loadings, magnitudes of the eigenvalues and the communalities, how many factors should be kept for ```Xupp``` and ```Xlwr```? How much variance do they account for? What are their communalities?
 
 
+
 **NOTES:**
 
 **1) Remember to use the help feature, if in doubt what a particular ```m-file``` does, use:**
@@ -78,8 +79,6 @@ help filename.m
 ```
 
 and MATLAB will list the header of the m-file in your window. Good hunting.
-
-**2) ```Varimax.m``` no longer works in keyboard mode, keyboard mode was removed in 2007.**
 
 
 
